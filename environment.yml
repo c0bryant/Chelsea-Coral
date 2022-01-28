@@ -1,0 +1,10 @@
+name: chelsea_coral
+channels:
+  - conda-forge
+dependencies:
+  # - cartopy~=0.18.0             
+  - python
+  - pip
+  - pip:
+    - matplotlib~=3.5.1
+    - pandas~=1.3.5
